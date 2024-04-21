@@ -7,9 +7,9 @@
 */
 
 /**
-* This is the Main class.
+* This is the Main2 class.
 */
-final class Main {
+final class Main2 {
     /**
     * Prevent instantiation
     * Throw an exception IllegalStateException.
@@ -17,7 +17,7 @@ final class Main {
     *
     * @throws IllegalStateException if instantiation is attempted
     */
-    private Main() {
+    private Main2() {
         throw new IllegalStateException("Cannot be instantiated");
     }
 
